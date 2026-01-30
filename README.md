@@ -1,1 +1,3 @@
-Inertia Cube i3 Mods/Adjustments by Sesaita
+Inertia Cube i3 edited Files
+
+Untested just collecting them in one place to print and test
